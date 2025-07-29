@@ -29,8 +29,8 @@ This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript. P
 - Allow players to input their names
 
 ## Author
-Arpit Anshu Raj
+Vikas Yadav
 
 ## Live Demo
-[Play the game](tic-tac-toe-arpit.netlify.app)
+[Play the game]()
 
